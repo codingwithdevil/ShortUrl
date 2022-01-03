@@ -28,7 +28,6 @@ apt update && apt install git -y && git clone https://github.com/codingwithdevil
 ```bash uninstall.sh```
 
 
-
 ### [+] Installation For Termux
 
 
@@ -49,11 +48,12 @@ apt update && apt install git -y && git clone https://github.com/codingwithdevil
 ### Or, Use Single Command
 ```
 pkg update && pkg install git -y && git clone https://github.com/codingwithdevil/ShortUrl.git && cd shorturl && chmod +x * && bash Termux_install.sh && shorturl
+```
 
 
 ### [+] Uninstall From Termux
 
 ```bash Termux_uninstall.sh```
-```
+
 
 ### [+] Official Youtube Channel https://www.youtube.com/channel/UCnKlznTEohj_PCw9cuxy8Zg

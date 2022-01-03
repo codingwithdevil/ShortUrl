@@ -26,7 +26,8 @@ apt update && apt install git -y && git clone https://github.com/codingwithdevil
 ### [+] Uninstall From Kali Linux
 
 ```bash uninstall.sh```
-```
+
+
 
 ### [+] Installation For Termux
 
@@ -42,7 +43,7 @@ apt update && apt install git -y && git clone https://github.com/codingwithdevil
 ```chmod +x *```
 
 ```bash Termux_install.sh```
-```
+
 
 ## Type `shorturl` or `ShortUrl` to run the Tool.
 ### Or, Use Single Command

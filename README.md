@@ -21,6 +21,7 @@
 ### Or, Use Single Command
 ```
 apt update && apt install git -y && git clone https://github.com/codingwithdevil/ShortUrl.git && cd shorturl && chmod +x * && bash install.sh && shorturl
+```
 
 ### [+] Uninstall From Kali Linux
 
